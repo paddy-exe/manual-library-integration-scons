@@ -1,0 +1,32 @@
+# Binaries
+*.o
+*.os
+*.so
+*.obj
+*.bc
+*.pyc
+*.dblite
+*.pdb
+*.lib
+bin
+*.config
+*.creator
+*.creator.user
+*.files
+*.includes
+*.idb
+*.exp
+*.dylib
+*.framework
+*.dll
+
+helloworld
+
+# CMake specific
+CMakeFiles
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# CLion specific
+*.idea
